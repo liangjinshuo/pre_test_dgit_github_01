@@ -1,0 +1,16 @@
+{
+  "apiID": "package_285956__c__function_aadif2nqvemls",
+  "apiName": "type_0_golang",
+  "label": {
+    "zh_CN": "type_0_golang",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
