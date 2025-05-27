@@ -1,0 +1,16 @@
+{
+  "apiID": "package_285956__c__function_aadigur37qcks",
+  "apiName": "golang_type7",
+  "label": {
+    "zh_CN": "golang_type7",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
